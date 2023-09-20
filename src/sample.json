@@ -1,0 +1,16 @@
+[
+    {
+        "id": "1",
+        "name": "Scooby Doo",
+        "Director":"James Cameroon",
+        "Anio":"2003",
+        "Puntuacion":"8,5"
+    },
+    {
+        "id": "2",
+        "name": "Spider Man",
+        "Director":"James Cameroon",
+        "Anio":"2001",
+        "Puntuacion":"8,5"
+    }
+]
